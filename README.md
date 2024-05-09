@@ -14,3 +14,4 @@ Arduinoを利用して様々なセンサを使ったプロジェクトを作成�
 ## 各章へのリンク
 
 - [Chapter1(LED点灯)](./Chapter1/description.md)
+- [Chapter2(RGB LED点灯)](./Chapter2/description.md)
