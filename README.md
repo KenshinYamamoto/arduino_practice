@@ -18,3 +18,6 @@ Arduinoを利用して様々なセンサを使ったプロジェクトを作成�
 - [Chapter3(デジタル入力)](./Chapter3/README.md)
 - [Chapter4(アクティブブザー)](./Chapter4/README.md)
 - [Chapter5(受動ブザー)](./Chapter5/README.md)
+- [Chapter6(傾斜ボールスイッチ)](./Chapter6/README.md)
+- [Chapter7(サーボ)](./Chapter7/README.md)
+- [Chapter8(超音波センサ)](./Chapter8/README.md)
