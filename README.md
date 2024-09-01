@@ -21,3 +21,4 @@ Arduinoを利用して様々なセンサを使ったプロジェクトを作成�
 - [Chapter6(傾斜ボールスイッチ)](./Chapter6/README.md)
 - [Chapter7(サーボ)](./Chapter7/README.md)
 - [Chapter8(超音波センサ)](./Chapter8/README.md)
+- [Chapter9(膜スイッチ)](./Chapter9/README.md)
